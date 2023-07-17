@@ -1,0 +1,43 @@
+.navbar {
+  background-color: #d62828;
+}
+a.nav-link {
+  color: #fcbf49;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fcbf49;
+}
+.jumbotron img {
+  width: 20%;
+}
+section {
+  padding-top: 5rem;
+}
+.about {
+  background-color: #f77f00;
+}
+#about .col-5 p {
+  text-align: justify;
+}
+.projects {
+  background-color: #fcbf49;
+}
+.contact {
+  background-color: #f77f00;
+  padding-top: 150px;
+}
+.contact button.btn {
+  /* border-color: #d62828; */
+  background-color: #d62828;
+  border: 7px solid #d62828;
+  color: aliceblue;
+}
+.contact button.btn:hover {
+  border: 7px solid #fcbf49;
+  background-color: #fcbf49;
+  color: #d62828;
+}
+footer {
+  background-color: #d62828;
+}
