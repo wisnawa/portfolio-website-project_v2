@@ -5,3 +5,7 @@ https://www.youtube.com/watch?v=LkR-9Z1sle8&list=PLFIM0718LjIVpXbAwu_Cg9PdJO1Gvy
 update code resource
 https://www.youtube.com/watch?v=oz4lhZVcdj0&t=880s
 
+root folder in computer files:
+D:\webproject\Backup-code\project HTML\portfolio-website-project_v2
+
+
